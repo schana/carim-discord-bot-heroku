@@ -16,6 +16,8 @@ This repo is for deploying the Carim Discord Bot using Heroku
    + `heroku create`
    + `git push heroku master`
    + `heroku ps:scale worker=1`
+1. You can check the logs to make sure everything is running properly
+   + `heroku logs`
 
 ## Configuration
 
