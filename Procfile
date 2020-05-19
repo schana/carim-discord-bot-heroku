@@ -1,1 +1,1 @@
-worker: carim-bot
+worker: carim-bot -c config.json
