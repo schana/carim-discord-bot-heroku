@@ -2,7 +2,7 @@
 
 This repo is for deploying the Carim Discord Bot using Heroku
 
-## Steps
+## Steps for initial setup
 
 1. Set up a [free Heroku account](https://signup.heroku.com/signup/dc)
 1. Follow [Heroku set up instructions](https://devcenter.heroku.com/articles/getting-started-with-python#set-up)
@@ -20,7 +20,7 @@ This repo is for deploying the Carim Discord Bot using Heroku
 1. You can check the logs to make sure everything is running properly
    + `heroku logs`
 
-## Update configuration
+## Steps to update configuration
 
 1. Make your changes
 1. Commit your changes
@@ -29,7 +29,7 @@ This repo is for deploying the Carim Discord Bot using Heroku
 1. Update Heroku app
    + `git push heroku master`
    
-## Update carim-discord-bot
+## Steps to update carim-discord-bot
 
 1. Edit `requirements.txt`
 1. Replace `carim-discord-bot` with `carim-discord-bot=={version}`, where `{version}` is the version you want
