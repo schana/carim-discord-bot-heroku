@@ -25,7 +25,7 @@ This repo is for deploying the Carim Discord Bot using Heroku
 1. Make your changes
 1. Commit your changes
    + `git add -A`
-   + `git commit -m "Added my configuration"`
+   + `git commit -m "Updated my configuration"`
 1. Update Heroku app
    + `git push heroku master`
    
@@ -36,7 +36,7 @@ This repo is for deploying the Carim Discord Bot using Heroku
    + `carim-discord-bot==1.4.0a1`
 1. Commit your changes
    + `git add -A`
-   + `git commit -m "Added my configuration"`
+   + `git commit -m "Updated bot version"`
 1. Update Heroku app
    + `git push heroku master`
 
