@@ -33,7 +33,7 @@ This repo is for deploying the Carim Discord Bot using Heroku
 
 1. Edit `requirements.txt`
 1. Replace `carim-discord-bot` with `carim-discord-bot=={version}`, where `{version}` is the version you want
-   + `carim-discord-bot==1.4.0a1`
+   + `carim-discord-bot==2.0.0`
 1. Commit your changes
    + `git add -A`
    + `git commit -m "Updated bot version"`
