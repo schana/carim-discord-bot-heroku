@@ -1,1 +1,2 @@
 carim-discord-bot
+chardet<4.0
