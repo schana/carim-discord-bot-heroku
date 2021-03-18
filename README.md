@@ -2,6 +2,8 @@
 
 This repo is for deploying the Carim Discord Bot using Heroku
 
+Video guide: https://youtu.be/LiklhYLcYy8
+
 ## Steps for initial setup
 
 1. Set up a [free Heroku account](https://signup.heroku.com/signup/dc)
