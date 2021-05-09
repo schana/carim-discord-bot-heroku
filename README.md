@@ -37,7 +37,7 @@ You only need to do this when the bot version needs updated. By default, the las
 
 1. Edit `requirements.txt`
 1. Replace `carim-discord-bot` with `carim-discord-bot=={version}`, where `{version}` is the version you want. Find the latest version on [PyPI](https://pypi.org/project/carim-discord-bot/).
-   + `carim-discord-bot==2.1.8`
+   + `carim-discord-bot==2.2.0`
 1. Commit your changes
    + `git add -A`
    + `git commit -m "Updated bot version"`
